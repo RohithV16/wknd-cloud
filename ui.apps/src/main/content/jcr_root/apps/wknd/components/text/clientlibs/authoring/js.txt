@@ -1,0 +1,9 @@
+#base=js
+pilotAI-creation-dialog.js
+pilotAI-translation-dialog.js
+pilotAI-tone-dialog.js
+pilotAI-review-dialog.js
+pilotAI-summary-dialog.js
+pilotAI-elaboration-dialog.js
+pilotAI-audience-dialog.js
+pilotAI-plugin.js

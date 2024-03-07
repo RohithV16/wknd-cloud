@@ -1,0 +1,5 @@
+{
+  "getAuthorizationType":"Bearer",
+  "getApiUrl":"https://api.openai.com/v1/chat/completions",
+  "getAuthorizationToken":"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"
+}
